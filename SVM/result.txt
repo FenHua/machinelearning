@@ -1,0 +1,1172 @@
+PythonWin 2.7 (r27:82525, Jul  4 2010, 09:01:59) [MSC v.1500 32 bit (Intel)] on win32.
+Portions Copyright 1994-2008 Mark Hammond - see 'Help/About PythonWin' for further copyright information.
+Traceback (most recent call last):
+  File "C:\Python27\Lib\site-packages\Pythonwin\pywin\framework\scriptutils.py", line 326, in RunScript
+    exec codeObject in __main__.__dict__
+  File "C:\Users\YAN\Desktop\SVM\test.py", line 6, in <module>
+    b,alphas=svmMLiA.smoP(dataArr,labelArr,0.6,0.001,40)
+  File "C:\Users\YAN\Desktop\SVM\svmMLiA.py", line 139, in smoP
+    oS=optStruct(mat(dataMatIn),mat(classLabels).transpose(),C,toler)
+TypeError: __init__() takes exactly 6 arguments (5 given)
+>>> L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 3
+iteration number:1
+j not moving enough
+non-bounds,iter:1 i:0,pairs changed 0
+non-bounds,iter:1 i:2,pairs changed 1
+non-bounds,iter:1 i:4,pairs changed 2
+j not moving enough
+non-bounds,iter:1 i:6,pairs changed 2
+iteration number:2
+non-bounds,iter:2 i:0,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:6,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:54,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:55,pairs changed 1
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:6,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:54,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:55,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+b is -21
+('the number of alphas(>0):', matrix([[ 0.20214487,  0.03811243,  0.02539318,  0.13863926]]))
+[3.542485, 1.977398] -1.0
+[8.610639, 2.046708] 1.0
+[5.286862, -2.358286] 1.0
+[6.080573, 0.418886] 1.0
+('W is:', array([[ 0.5893336 ],
+       [-0.32352619]]))
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 3
+iteration number:1
+j not moving enough
+non-bounds,iter:1 i:0,pairs changed 0
+non-bounds,iter:1 i:2,pairs changed 1
+non-bounds,iter:1 i:4,pairs changed 2
+j not moving enough
+non-bounds,iter:1 i:6,pairs changed 2
+iteration number:2
+non-bounds,iter:2 i:0,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:6,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:54,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:55,pairs changed 1
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:6,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:54,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:55,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+b is -21
+('the number of alphas(>0):', matrix([[ 0.20214487,  0.03811243,  0.02539318,  0.13863926]]))
+[3.542485, 1.977398] -1.0
+[8.610639, 2.046708] 1.0
+[5.286862, -2.358286] 1.0
+[6.080573, 0.418886] 1.0
+('W is:', array([[ 0.5893336 ],
+       [-0.32352619]]))
+Traceback (most recent call last):
+  File "C:\Python27\Lib\site-packages\Pythonwin\pywin\framework\scriptutils.py", line 326, in RunScript
+    exec codeObject in __main__.__dict__
+  File "C:\Users\YAN\Desktop\SVM\test.py", line 14, in <module>
+    svmMLiA.testRbf()
+  File "C:\Users\YAN\Desktop\SVM\svmMLiA.py", line 180, in testRbf
+    b,alphas=smop(dataArr,labelArr,200,0.0001,10000,('rbf',k1))
+NameError: global name 'smop' is not defined
+>>> j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:0 i:99,pairs changed 3
+iteration number:1
+non-bounds,iter:1 i:0,pairs changed 1
+j not moving enough
+non-bounds,iter:1 i:55,pairs changed 1
+non-bounds,iter:1 i:67,pairs changed 2
+iteration number:2
+j not moving enough
+non-bounds,iter:2 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:2 i:55,pairs changed 0
+iteration number:3
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+fullSet,iter:3 i:99,pairs changed 0
+iteration number:4
+b is -31
+('the number of alphas(>0):', matrix([[ 0.20184523,  0.20184523]]))
+[3.542485, 1.977398] -1.0
+[6.080573, 0.418886] 1.0
+('W is:', array([[ 0.51230096],
+       [-0.31457821]]))
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 10
+iteration number:1
+non-bounds,iter:1 i:0,pairs changed 1
+non-bounds,iter:1 i:2,pairs changed 2
+j not moving enough
+non-bounds,iter:1 i:3,pairs changed 2
+non-bounds,iter:1 i:14,pairs changed 3
+non-bounds,iter:1 i:23,pairs changed 4
+non-bounds,iter:1 i:26,pairs changed 5
+non-bounds,iter:1 i:45,pairs changed 6
+non-bounds,iter:1 i:57,pairs changed 7
+j not moving enough
+non-bounds,iter:1 i:58,pairs changed 7
+non-bounds,iter:1 i:59,pairs changed 8
+non-bounds,iter:1 i:63,pairs changed 8
+j not moving enough
+non-bounds,iter:1 i:65,pairs changed 8
+non-bounds,iter:1 i:69,pairs changed 9
+iteration number:2
+non-bounds,iter:2 i:0,pairs changed 1
+non-bounds,iter:2 i:2,pairs changed 2
+non-bounds,iter:2 i:3,pairs changed 3
+j not moving enough
+non-bounds,iter:2 i:14,pairs changed 3
+j not moving enough
+non-bounds,iter:2 i:23,pairs changed 3
+j not moving enough
+non-bounds,iter:2 i:26,pairs changed 3
+non-bounds,iter:2 i:45,pairs changed 4
+j not moving enough
+non-bounds,iter:2 i:58,pairs changed 4
+non-bounds,iter:2 i:59,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:65,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:76,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:85,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:87,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:99,pairs changed 5
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:2,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:3,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:14,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:23,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:26,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:45,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:58,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:59,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:65,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:76,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:85,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:87,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:93,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:99,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+there are 15 Support vectors
+Traceback (most recent call last):
+  File "C:\Python27\Lib\site-packages\Pythonwin\pywin\framework\scriptutils.py", line 326, in RunScript
+    exec codeObject in __main__.__dict__
+  File "C:\Users\YAN\Desktop\SVM\test.py", line 14, in <module>
+    svmMLiA.testRbf()
+  File "C:\Users\YAN\Desktop\SVM\svmMLiA.py", line 198, in testRbf
+    print("the training error rate is:%d"%float(errorCount)/m)
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+>>> L==H
+L==H
+L==H
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 4
+iteration number:1
+j not moving enough
+non-bounds,iter:1 i:0,pairs changed 0
+non-bounds,iter:1 i:2,pairs changed 1
+non-bounds,iter:1 i:4,pairs changed 2
+non-bounds,iter:1 i:5,pairs changed 3
+iteration number:2
+non-bounds,iter:2 i:0,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:55,pairs changed 1
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:55,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+b is -19
+('the number of alphas(>0):', matrix([[ 0.22545753,  0.22545753]]))
+[3.542485, 1.977398] -1.0
+[6.080573, 0.418886] 1.0
+('W is:', array([[ 0.57223105],
+       [-0.35137826]]))
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 7
+iteration number:1
+non-bounds,iter:1 i:0,pairs changed 1
+non-bounds,iter:1 i:1,pairs changed 2
+non-bounds,iter:1 i:2,pairs changed 3
+L==H
+non-bounds,iter:1 i:5,pairs changed 3
+j not moving enough
+non-bounds,iter:1 i:7,pairs changed 3
+j not moving enough
+non-bounds,iter:1 i:10,pairs changed 3
+j not moving enough
+non-bounds,iter:1 i:12,pairs changed 3
+non-bounds,iter:1 i:74,pairs changed 4
+non-bounds,iter:1 i:99,pairs changed 5
+iteration number:2
+j not moving enough
+non-bounds,iter:2 i:0,pairs changed 0
+non-bounds,iter:2 i:2,pairs changed 1
+non-bounds,iter:2 i:7,pairs changed 2
+non-bounds,iter:2 i:10,pairs changed 3
+non-bounds,iter:2 i:12,pairs changed 4
+non-bounds,iter:2 i:45,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:74,pairs changed 5
+j not moving enough
+non-bounds,iter:2 i:99,pairs changed 5
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:2,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:7,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:45,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:74,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:99,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+there are 7 Support vectors
+the training error rate is:0
+Traceback (most recent call last):
+  File "C:\Python27\Lib\site-packages\Pythonwin\pywin\framework\scriptutils.py", line 326, in RunScript
+    exec codeObject in __main__.__dict__
+  File "C:\Users\YAN\Desktop\SVM\test.py", line 14, in <module>
+    svmMLiA.testRbf()
+  File "C:\Users\YAN\Desktop\SVM\svmMLiA.py", line 206, in testRbf
+    if sign(predict)!=sign(labelMat[i]):errorCount+=1
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+>>> L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 3
+iteration number:1
+j not moving enough
+non-bounds,iter:1 i:0,pairs changed 0
+non-bounds,iter:1 i:2,pairs changed 1
+non-bounds,iter:1 i:4,pairs changed 2
+j not moving enough
+non-bounds,iter:1 i:6,pairs changed 2
+iteration number:2
+non-bounds,iter:2 i:0,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:6,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:54,pairs changed 1
+j not moving enough
+non-bounds,iter:2 i:55,pairs changed 1
+iteration number:3
+j not moving enough
+non-bounds,iter:3 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:6,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:54,pairs changed 0
+j not moving enough
+non-bounds,iter:3 i:55,pairs changed 0
+iteration number:4
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:4 i:99,pairs changed 0
+iteration number:5
+b is -21
+('the number of alphas(>0):', matrix([[ 0.20214487,  0.03811243,  0.02539318,  0.13863926]]))
+[3.542485, 1.977398] -1.0
+[8.610639, 2.046708] 1.0
+[5.286862, -2.358286] 1.0
+[6.080573, 0.418886] 1.0
+('W is:', array([[ 0.5893336 ],
+       [-0.32352619]]))
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+fullSet,iter:0 i:99,pairs changed 2
+iteration number:1
+non-bounds,iter:1 i:0,pairs changed 1
+non-bounds,iter:1 i:1,pairs changed 2
+non-bounds,iter:1 i:3,pairs changed 3
+iteration number:2
+j not moving enough
+non-bounds,iter:2 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:2 i:45,pairs changed 0
+j not moving enough
+non-bounds,iter:2 i:74,pairs changed 0
+iteration number:3
+j not moving enough
+j not moving enough
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+L==H
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:3 i:99,pairs changed 4
+iteration number:4
+j not moving enough
+non-bounds,iter:4 i:0,pairs changed 0
+non-bounds,iter:4 i:2,pairs changed 1
+j not moving enough
+non-bounds,iter:4 i:21,pairs changed 1
+j not moving enough
+non-bounds,iter:4 i:27,pairs changed 1
+j not moving enough
+non-bounds,iter:4 i:41,pairs changed 1
+non-bounds,iter:4 i:45,pairs changed 2
+j not moving enough
+non-bounds,iter:4 i:47,pairs changed 2
+j not moving enough
+non-bounds,iter:4 i:49,pairs changed 2
+j not moving enough
+non-bounds,iter:4 i:74,pairs changed 2
+iteration number:5
+j not moving enough
+non-bounds,iter:5 i:0,pairs changed 0
+non-bounds,iter:5 i:2,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:21,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:27,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:41,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:42,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:45,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:47,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:49,pairs changed 1
+j not moving enough
+non-bounds,iter:5 i:74,pairs changed 1
+iteration number:6
+j not moving enough
+non-bounds,iter:6 i:0,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:2,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:21,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:27,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:41,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:42,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:45,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:47,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:49,pairs changed 0
+j not moving enough
+non-bounds,iter:6 i:74,pairs changed 0
+iteration number:7
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+fullSet,iter:7 i:99,pairs changed 0
+iteration number:8
+there are 10 Support vectors
+the training error rate is:0
+the testing error rate is:0
+>>> 
